@@ -89,6 +89,8 @@ An opportunity to play with animating 3D humanoid characters
 ## Implementation
 Built using Blender 2.92.0, Godot 3.2.3
 
+Completed extra credit RagDoll.blend
+
 ## References
 [Kenney.nl Animation Characters](https://kenney.nl/assets/animated-characters-2)
 [Rain v2.0 Blender model](https://cloud.blender.org/p/characters/5f04a68bb5f1a2612f7b29da)
@@ -102,5 +104,4 @@ None
 None
 
 ## Created by 
-Jason Francis
-```
+Liv Callahan
